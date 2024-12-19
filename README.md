@@ -137,14 +137,4 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usá-
 ---
 
 💡 **Desenvolvido por Dyogo** | Entre em contato para colaborações ou dúvidas. Aproveite o aprendizado! 🚀
-```
 
----
-
-### **Características do README**
-- **Criatividade:** Apresentação atraente e organizada.
-- **Clareza:** Instruções claras sobre como usar o programa.
-- **Informações Técnicas:** Explica conceitos como tempos de CPU e algoritmos de escalonamento.
-- **Engajamento:** Chama atenção para melhorias futuras e como expandir o projeto.
-
-Se precisar de mais ajustes ou personalizações, me avise! 😊
